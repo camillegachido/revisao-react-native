@@ -2,12 +2,11 @@
 
 ### Para rodar a api
 
-ˋˋˋ
-json-server --watch db.json
-ˋˋˋ
+
+`json-server --watch db.json`
+
 
 ### Para rodar o projeto
 
-ˋˋˋ
-npm start
-ˋˋˋ
+
+`npm start`
