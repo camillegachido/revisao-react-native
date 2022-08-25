@@ -1,0 +1,64 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "a melhor paeja do mundo",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkIEA3oDOGUtg_n7ekOFAvaE0ycFYM7YX0Q&usqp=CAU",
+      "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad."
+    },
+    {
+      "id": 2,
+      "title": "pastel do mercadão de são paulo",
+      "img_url": "https://f.i.uol.com.br/fotografia/2019/07/11/15628849325d27bb44332ab_1562884932_3x2_xl.jpg",
+      "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad."
+    },
+    {
+      "id": 3,
+      "title": "macarrão a carbonara do chefe",
+      "img_url": "https://images.piracanjuba.com.br/public/623ba19a414d2ca5188207d0a133e03f20210922002613.jpg",
+      "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad."
+    },
+    {
+      "id": 4,
+      "title": "picanha ao molho",
+      "img_url": "https://receita-gourmet.com/wp-content/uploads/2022/03/Design-sem-nome-2022-07-08T103110.889.png",
+      "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad."
+    },
+    {
+      "id": 5,
+      "title": "pudim gourmet",
+      "img_url": "https://cursosdedocesgourmet.files.wordpress.com/2019/08/5949cfea-c8a5-439f-bae3-192a4aa40ea8.png",
+      "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad."
+    },
+    {
+      "title": "",
+      "description": "",
+      "img_url": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "img_url": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "description": "",
+      "img_url": "",
+      "id": 9
+    },
+    {
+      "title": "",
+      "description": "",
+      "img_url": "",
+      "id": 10
+    },
+    {
+      "title": "",
+      "description": "",
+      "img_url": "",
+      "id": 11
+    }
+  ]
+}
